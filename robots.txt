@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrlpm.github.io/sitemap.xml
